@@ -1,3 +1,3 @@
-# twing-downloader
+# twimg-download-extension
 
-Twitter Image Downloader Extension
+Twitter Image Download Extension
