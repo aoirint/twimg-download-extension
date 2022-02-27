@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "twing-downloader-extension",
+  "version": "0.1.0",
+  "description": "Twitter Image Downloader",
+  "icons": {
+    "128": "assets/icon128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "src/background.js"
+  }
+}
